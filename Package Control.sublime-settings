@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ACF Snippets",
+		"ColorPicker",
+		"CSS Unminifier",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"Sass",
+		"SassSolution",
+		"SFTP",
+		"SideBarEnhancements",
+		"Smarty",
+		"SublimeLinter",
+		"SublimeLinter-php"
+	]
+}
